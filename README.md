@@ -1,4 +1,4 @@
-CSCI323 Automatic Sudoku Solver:
+CSCI323 Automatic Sudoku Solver :
   - Image recognition: OpenCV grid detection + CNN digit recognition 
   - Method 1: CSP search with MCV, LCV and AC-3
   - Method 2: Simulated Annealing 
